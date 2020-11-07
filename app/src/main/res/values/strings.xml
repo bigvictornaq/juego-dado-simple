@@ -4,9 +4,9 @@
 
     <string name="play">Play</string>
     <string name="winner">Ganastes BRO!!!!!
-                            Tus dados</string>
+                            \nTus dados</string>
     <string name="go_back">Volver a jugar</string>
-    <string name="titulo2">Regla del Juego es Obtner el mismo numero lado en ambos dados!!</string>
+    <string name="titulo2">*********Regla del Juego******** \nObtener el mismo numero lado en ambos dados!!</string>
     <string name="title">DADO!!</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
